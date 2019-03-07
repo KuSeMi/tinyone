@@ -1,0 +1,51 @@
+h1, h2, h3, h4, h5 {
+  font-weight: 700;
+  color: #000;
+}
+
+h3 {
+  font-weight: 400;
+}
+
+h2 {
+  text-align: center;
+}
+
+.offer__title {
+  font-size:32px;
+  margin-bottom: 15px;
+}
+
+.offer__intro {
+  font-size: 20px;
+  line-height: 1.3em;
+}
+
+.offer__text {
+  font-size: 16px;
+  margin-top:15px;
+  color: #555555;
+  width: 400px;
+}
+
+/* 2nd screen */
+
+.title {
+  padding-top: 100px;
+  padding-bottom:70px;
+  text-align: center;
+}
+
+.title__main {
+  font-size: 32px;
+}
+
+.title__text {
+  font-size: 20px;
+  width: 780px;
+  margin: 0 auto;
+}
+
+.feature__text {
+  color: #898989;
+}
